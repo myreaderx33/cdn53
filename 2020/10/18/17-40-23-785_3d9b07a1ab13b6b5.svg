@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 530 448" style="enable-background:new 0 0 530 448;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E2DED6;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st2{clip-path:url(#SVGID_2_);fill:none;stroke:#4275B8;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st4{font-family:'Helvetica';}
+	.st5{font-size:14px;}
+</style>
+<g>
+	<rect x="64" y="8" class="st0" width="450" height="400"/>
+	<path class="st1" d="M64,328h450 M64,248h450 M64,168h450 M64,88h450 M128.3,408V8 M192.6,408V8 M256.9,408V8 M321.2,408V8
+		 M385.4,408V8 M449.7,408V8"/>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="64" y="8" width="450" height="400"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<polyline class="st2" points="64,9.6 70.4,9.6 76.9,16 83.3,12 89.7,12.8 96.2,20.8 102.6,17.6 109,25.6 115.4,16.8 121.9,22.4 
+			128.3,35.2 134.7,29.6 141.2,33.6 147.6,38.4 154,36.8 160.4,60 166.9,60.8 173.3,59.2 179.7,73.6 186.2,75.2 192.6,88 199,109.6 
+			205.4,108.8 211.9,124 218.3,116 224.7,142.4 231.2,153.6 237.6,155.2 244,166.4 250.4,180.8 256.9,174.4 263.3,193.6 
+			269.7,202.4 276.2,240 282.6,222.4 289,255.2 295.4,257.6 301.9,282.4 308.3,269.6 314.7,290.4 321.2,296 327.6,312.8 334,317.6 
+			340.4,333.6 346.9,344.8 353.3,346.4 359.7,342.4 366.2,361.6 372.6,358.4 379,369.6 385.4,371.2 391.9,381.6 398.3,370.4 
+			404.7,385.6 411.2,384 417.6,384.8 424,385.6 430.4,394.4 436.9,398.4 443.3,395.2 449.7,405.6 456.2,400 462.6,400.8 469,403.2 
+			475.4,404 481.9,405.6 488.3,407.2 494.7,405.6 501.2,407.2 507.6,403.2 514,405.6 		"/>
+	</g>
+	<path class="st3" d="M64,8v400h450 M64,408v3 M128.3,408v3 M192.6,408v3 M256.9,408v3 M321.2,408v3 M385.4,408v3 M449.7,408v3
+		 M513.8,408v3 M64,408h-3 M64,328h-3 M64,248h-3 M64,168h-3 M64,88h-3 M64,8.3h-3"/>
+	<text transform="matrix(1 0 0 1 52.3491 424.521)" class="st4 st5">170</text>
+	<text transform="matrix(1 0 0 1 116.6304 424.521)" class="st4 st5">180</text>
+	<text transform="matrix(1 0 0 1 180.9194 424.521)" class="st4 st5">190</text>
+	<text transform="matrix(1 0 0 1 245.2007 424.521)" class="st4 st5">200</text>
+	<text transform="matrix(1 0 0 1 309.4897 424.521)" class="st4 st5">210</text>
+	<text transform="matrix(1 0 0 1 373.7788 424.521)" class="st4 st5">220</text>
+	<text transform="matrix(1 0 0 1 438.0601 424.521)" class="st4 st5">230</text>
+	<text transform="matrix(1 0 0 1 502.3491 424.521)" class="st4 st5">240</text>
+	<text transform="matrix(1 0 0 1 51.8413 414.021)" class="st4 st5">0</text>
+	<text transform="matrix(1 0 0 1 36.271 334.021)" class="st4 st5">100</text>
+	<text transform="matrix(1 0 0 1 36.271 254.021)" class="st4 st5">200</text>
+	<text transform="matrix(1 0 0 1 36.271 174.021)" class="st4 st5">300</text>
+	<text transform="matrix(1 0 0 1 36.271 94.021)" class="st4 st5">400</text>
+	<text transform="matrix(1 0 0 1 36.271 14.021)" class="st4 st5">500</text>
+	<text transform="matrix(1 0 0 1 178.5444 442.021)" class="st4 st5">initial Hamming distance from target</text>
+	<text transform="matrix(1 0 0 1 211.5444 54.021)" class="st4 st5">based on 500 trials for each Hamming distance</text>
+	<text transform="matrix(0 -1 1 0 27.021 326.6929)" class="st4 st5">number of probes converging to target</text>
+</g>
+</svg>
